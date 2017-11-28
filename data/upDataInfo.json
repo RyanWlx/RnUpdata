@@ -1,0 +1,13 @@
+{
+  "url": "/business/version",
+  "method": "post",
+  "response": {
+    "code": "0",
+    "message": "请求成功",
+    "body": {
+      "versionName": "2.0.0",
+      "description":"添加了热更新功能",
+      "url":"http://www.baidu.com"
+    }
+  }
+}
